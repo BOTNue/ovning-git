@@ -1,4 +1,4 @@
-# Övning 3
+# Excersise 3
 ## Description
 This is a excersise to get a 
 good understanding on how to
